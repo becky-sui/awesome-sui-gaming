@@ -90,3 +90,11 @@ VI. [Core Mysten Tools and SDKs](https://github.com/theninthangel/awesome-sui-ga
 To learn more visit:
 * [Sui Documentation](https://docs.sui.io/)
 * [Gaming on Sui | Sui Documentation](https://docs.sui.io/concepts/gaming)
+
+
+---
+
+## Betting & Prediction Markets
+
+- **[SuiBets](https://suibets.replit.app)** - On-chain sports & esports betting platform on Sui. Supports SUI, SBETS, and USDsui as betting currencies. Features immutable odds locked at bet time, instant settlement via Move smart contracts, and zero KYC. Covers 20+ sports and esports leagues (LoL, Valorant, CS2, Dota 2).
+  - [GitHub](https://github.com/elpou88/suibetsupdatedsecurity) - [Contract on Sui](https://suiscan.xyz/mainnet/object/0x2e354642a3c00571832c03c42575587a0ca38cfe02e4f84cb3404cc9eab403d3)
